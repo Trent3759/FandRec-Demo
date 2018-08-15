@@ -1,0 +1,1 @@
+wsaccel ujson autobahn twisted opencv-python opencv-contrib-python
